@@ -1,2 +1,2 @@
 # Snake
-Snake game Python
+NumPy Snake, using RL rendering. Crossplatform.
